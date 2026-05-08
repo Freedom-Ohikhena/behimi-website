@@ -58,7 +58,7 @@ export default function Hero() {
           <div className="grid grid-cols-3 gap-3 pt-8 border-t border-gray-100">
             {[
               { value: '50+', label: 'Projects Done', icon: '🚀' },
-              { value: '3+', label: 'Years Experience', icon: '📅' },
+              { value: '10+', label: 'Years Experience', icon: '📅' },
               { value: '100%', label: 'Client Satisfaction', icon: '⭐' },
             ].map((stat, i) => (
               <div key={i} className="bg-[#F0FBFF] border border-[#29ABE2]/15 rounded-2xl px-3 py-4 flex flex-col items-center text-center">

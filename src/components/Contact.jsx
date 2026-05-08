@@ -44,7 +44,7 @@ export default function Contact() {
                 Send Us an Email
               </a>
               <a
-                href="tel:+2340000000000"
+                href="tel:+2347073479345"
                 className="flex items-center justify-center gap-2 border-2 border-white/20 hover:border-[#29ABE2] text-white hover:text-[#29ABE2] px-8 py-4 rounded-xl font-semibold text-base transition-all duration-200"
               >
                 <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
@@ -76,7 +76,7 @@ export default function Contact() {
                   </svg>
                 ),
                 label: 'Phone',
-                value: '+234 (0) 000 000 0000',
+                value: '+234 707 347 9345',
                 sub: 'Mon–Fri, 9am–6pm WAT',
               },
               {

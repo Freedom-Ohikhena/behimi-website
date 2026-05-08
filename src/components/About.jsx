@@ -121,7 +121,7 @@ export default function About() {
                     { v: 'A', label: 'Software Dev & AI' },
                     { v: 'B', label: 'IT Solutions & Training' },
                     { v: 'C', label: 'General Contracting' },
-                    { v: '3+', label: 'Years in Business' },
+                    { v: '10+', label: 'Years in Business' },
                   ].map((item, i) => (
                     <div key={i}>
                       <div className="text-3xl font-black">{item.v}</div>
