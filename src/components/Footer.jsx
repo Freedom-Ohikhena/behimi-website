@@ -26,7 +26,7 @@ export default function Footer() {
           {/* Brand */}
           <div className="lg:col-span-2">
             <div className="mb-5">
-              <img src={logo} alt="BEHIMI Global Solutions LTD" className="h-14 w-auto max-w-[200px]" />
+              <img src={logo} alt="BEHIMI Global Solutions LTD" className="h-20 w-auto max-w-[240px]" />
             </div>
             <p className="text-gray-400 text-sm leading-relaxed max-w-sm mb-6">
               Empowering businesses with innovative software, AI, IT, and contracting
