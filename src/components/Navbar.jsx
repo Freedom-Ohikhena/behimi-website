@@ -4,6 +4,7 @@ import logo from '../assets/behimi1.png'
 const links = [
   { label: 'Home', href: '#home' },
   { label: 'Services', href: '#services' },
+  { label: 'Our Products', href: '#products' },
   { label: 'About', href: '#about' },
   { label: 'Contact', href: '#contact' },
 ]
